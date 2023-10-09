@@ -1,17 +1,59 @@
-# CS305Proj2
-Project two 
-Chandni Singh
-Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
-Artemis Fincvial is a fincial company that wanted to adress several security issues in thier program.   They are primarly a consulting company that develops individualized financial plans for their customers. They had various issues such as modernizating their software, and adressing security vulnerabilities. 
-What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
-Searching for security vulnerabilities was one of my favorite parts of this corse - after suppressing them sometimes I would come back with 100 more which was annoying but I suppressed  the new ones anyway. It is important to code securly because it serves as wall against security attacks that could cause data breaches which could potentally hemmoarage funds fromt he comapy as they lose clients. Knowing that your data is protects helps everyone feel safe and confident. Trust is an important aspect to build between customers and companys.
-What part of the vulnerability assessment was challenging or helpful to you?
-I found little to no isse with the security vulnerabilities assignment - It was ensightful to learn how many security vulnerabilities exists - sort of like a wake up call.
-How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
-I would run security vulnerabilitie tests, keep software updated, and take on issues as they come rather than pushing them off for later. 
-How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
-I updadted the pom.xml file again and processed the vulnerabilitiy test over and over until every vulnerability has been suppressed. 
-What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
-Learnign about SHA-256 and encryption/decription is one thing that I found might be helpful to me in the fucture. 
-Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
-I would show that check sum assignemnt - and speak about how I was able to collaborate with one of my peers to adress any issues and sucessfully run the code. I belive that this shows that I am able to reach out the help whhen it comes to road black, work as a team, and keep trying until i'm sucessfull. 
+# Project Two: Artemis Financial Software Security README
+
+## Client Overview
+Artemis Financial is a financial consulting company specializing in developing personalized financial plans for their clients. They approached us with two main software-related concerns: 
+
+1. **Modernization**: They wanted to modernize their existing software infrastructure to ensure it remains competitive and efficient in the rapidly evolving financial sector.
+   
+2. **Security**: Addressing security vulnerabilities was a top priority. They recognized the critical importance of safeguarding their clients' sensitive financial data and preventing potential data breaches.
+
+## Addressing Security Vulnerabilities
+During our engagement with Artemis Financial, we focused on identifying and mitigating security vulnerabilities within their software. Here's what we did well:
+
+- **Comprehensive Assessment**: We conducted thorough security assessments to identify vulnerabilities, recognizing the importance of protecting against potential threats.
+
+- **Prompt Mitigation**: When vulnerabilities were identified, we promptly addressed them, ensuring that the software was secure before moving forward.
+
+## The Significance of Secure Coding
+Secure coding is vital for several reasons:
+
+- **Protection Against Data Breaches**: Secure code acts as a strong defense against security breaches, safeguarding sensitive financial data and preventing financial losses.
+
+- **Building Trust**: Secure software builds trust with clients. Knowing their data is protected helps clients feel safe and confident in their financial plans.
+
+- **Reputation**: Maintaining a reputation for secure software can have a positive impact on a company's overall wellbeing, attracting and retaining clients.
+
+## Challenges and Insights
+We encountered few issues during the security vulnerability assessment, and this process provided valuable insights:
+
+- **Eye-Opening**: Discovering numerous security vulnerabilities was enlightening. It emphasized the importance of ongoing security measures.
+
+## Enhancing Security
+To increase layers of security in the future:
+
+- **Regular Testing**: We recommend running periodic security vulnerability tests.
+  
+- **Software Updates**: Keeping software up-to-date is crucial for staying ahead of emerging threats.
+
+- **Timely Issue Resolution**: Address security issues promptly instead of postponing them.
+
+## Ensuring Functionality and Security
+After code refactoring, we ensured functionality and security:
+
+- **Updated Configuration**: We maintained an updated `pom.xml` file.
+
+- **Continuous Testing**: We repeatedly ran vulnerability tests until all vulnerabilities were resolved, ensuring the software was both functional and secure.
+
+## Valuable Resources and Practices
+Resources, tools, and practices that proved helpful include:
+
+- **SHA-256 and Encryption**: Understanding SHA-256 and encryption/decription practices can be valuable for future security-related tasks.
+
+## Showcasing Achievements
+For future employment opportunities, we can showcase:
+
+- **Checksum Assignment**: Highlighting our successful collaboration with peers and the ability to overcome challenges as a team.
+
+- **Determination**: Demonstrating our persistence in problem-solving and ensuring project success.
+
+By addressing Artemis Financial's security concerns and modernizing their software, we not only contributed to their success but also gained valuable experience in software security, secure coding practices, and the importance of staying vigilant in the face of evolving threats.
